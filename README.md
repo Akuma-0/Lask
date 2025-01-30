@@ -1,43 +1,81 @@
-# Lask
+# 📰 Lask
 
-**Lask** is a sleek and intuitive app that delivers personalized news and weather updates. Stay informed with headlines on global events, technology, entertainment, and more, while also keeping track of the latest weather conditions.
+Lask is a sleek and intuitive news application that delivers personalized headlines and updates on global events, technology, entertainment, and more. Stay informed and easily save your favorite articles.
 
-## Features
+## ✨ Features
 
-- **Personalized News Feed**: Get news tailored to your interests.
-- **Weather Updates**: Receive current weather information based on your location.
-- **Global Coverage**: Access news from around the world.
-- **Save Articles**: Bookmark articles to read later.
-- **User-Friendly Interface**: Navigate the app with ease.
+- 🌍 **Personalized News Feed** – Receive news tailored to your interests.
+- 🌦 **Weather Updates** – Get current weather information based on your location.
+- 📰 **Global Coverage** – Access news from around the world.
+- 📌 **Save Articles** – Bookmark articles to read later.
+- 🎨 **User-Friendly Interface** – Navigate the app with ease.
 
-## Installation
+## 📸 Screenshots
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/lask.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd lask
-    ```
-3. Install dependencies:
-    ```bash
-    flutter pub get
-    ```
-4. Run the app:
-    ```bash
-    flutter run
-    ```
+| Home Screen | Article View | Weather Info |
+|------------|-------------|-------------|-------------|-------------|
+| ![Home Screen](screenshots/home.jpg) | ![Article View](screenshots/article.jpg) | ![Bookmarks](screenshots/bookmarks.jpg) | ![Settings](screenshots/settings.jpg) | ![Explore](screenshots/explore.jpg) |
 
-## Requirements
+## 🚀 Installation
 
-- Flutter SDK
-- Dart SDK
+To run Lask locally, follow these steps:
 
-## Contributing
+1. **Clone the repository**:
 
-Contributions are welcome! Please open an issue or submit a pull request.
+   ```bash
+   git clone https://github.com/Akuma-0/Lask.git
+   cd Lask
+   ```
 
-## License
+2. **Install dependencies**:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app**:
+
+   ```bash
+   flutter run
+   ```
+
+## 📋 Requirements
+
+- 🔹 **Flutter SDK**
+- 🔹 **Dart SDK**
+
+Ensure that both the Flutter and Dart SDKs are installed and properly configured on your system.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to contribute to Lask, please follow these steps:
+
+1. **Fork the repository**.
+2. **Create a new branch**:
+
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+
+3. **Make your changes**.
+4. **Commit your changes**:
+
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+
+5. **Push to the branch**:
+
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
+
+6. **Open a Pull Request**.
+
+*For major changes, please open an issue first to discuss what you would like to change.*
+
+
+
+---
+
+🎉 *Happy Coding!*
