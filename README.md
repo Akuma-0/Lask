@@ -17,6 +17,19 @@ Lask is a sleek and intuitive news application that delivers personalized headli
 | ![Home Screen](screenshots/home.jpg) | ![Article View](screenshots/article.jpg) | ![Bookmarks](screenshots/bookmarks.jpg) | ![Settings](screenshots/settings.jpg) | ![Explore](screenshots/explore.jpg) | ![Search Screen](screenshots/search.jpg) |
 
 
+## 🛠 Tech Stack
+
+Lask is built using the following technologies:
+
+- *Flutter* 🚀 – A powerful UI toolkit for cross-platform applications.
+- *Dart* 🏹 – The programming language powering Flutter.
+- *Bloc* 🔄 – State management for predictable app behavior.
+- *Hive* 📦 – Lightweight and fast NoSQL database for local storage.
+- *Dio* ⚡ – A powerful HTTP client for API requests.
+- *NewsAPI* 📰 – Fetching real-time news data.
+
+
+
 ## 🚀 Installation
 
 To run Lask locally, follow these steps:
