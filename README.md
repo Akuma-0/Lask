@@ -12,9 +12,10 @@ Lask is a sleek and intuitive news application that delivers personalized headli
 
 ## 📸 Screenshots
 
-| Home Screen | Article View | Weather Info |
-|------------|-------------|-------------|-------------|-------------|
-| ![Home Screen](screenshots/home.jpg) | ![Article View](screenshots/article.jpg) | ![Bookmarks](screenshots/bookmarks.jpg) | ![Settings](screenshots/settings.jpg) | ![Explore](screenshots/explore.jpg) |
+| Home Screen | Article View | Weather Info | Bookmarks | Settings | Explore |
+|-------------|--------------|--------------|-----------|----------|---------|
+| ![Home Screen](screenshots/home.jpg) | ![Article View](screenshots/article.jpg) | ![Weather Info](screenshots/weather.jpg) | ![Bookmarks](screenshots/bookmarks.jpg) | ![Settings](screenshots/settings.jpg) | ![Explore](screenshots/explore.jpg) |
+
 
 ## 🚀 Installation
 
